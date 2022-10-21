@@ -1,0 +1,15 @@
+
+
+.submit-btn {
+    position: absolute;
+    left: 40%;
+    top: 50%;
+    margin-top: 50px;
+}
+
+.login-btn {
+    position: absolute;
+    left: 60%;
+    top: 50%;
+    margin-top: 50px;
+}
